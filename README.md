@@ -54,6 +54,6 @@
 
 </div>
 <p align="center">
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabLopes12&layout=compact&langs_count=7&theme=nord&cache_seconds=1" alt="Estatísticas de Linguagens do GitHub" />
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=GabLopes12&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=1" alt="Estatísticas do GitHub" />
+  <img loading="lazy" height="160em" src="https://github-readme-stats-three-psi-11.vercel.app/api/top-langs/?username=GabLopes12&layout=compact&langs_count=7&theme=nord" alt="Estatísticas de Linguagens do GitHub" />
+  <img loading="lazy" height="160em" src="https://github-readme-stats-three-psi-11.vercel.app/api?username=GabLopes12&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
