@@ -11,15 +11,11 @@
 <p align="center">
   🎓 I'm studying at the University of Brasilia <strong>(UnB)</strong>
   <img src="assets/Logo_UnB.png" alt="UnB Logo" height="16" /><br><br>
-  🔭 I’m a member of the Project Management Center on CJR - UnB`s junior computing company. I`m currently working on some <a href="https://github.com/GabLopes12" target="_blank"><strong>projects</strong>.</a><br><br>
+  🔭 I’m a member of the Project Management Center on CJR - UnB`s junior computing company. I am currently developing personal and academic projects involving backend, frontend, and data analysis.
   💬 Fluent in <strong>Portuguese</strong>
   <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13" />
   and <strong>English</strong>
   <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13" /><br><br>
-  📫 How to reach me:
-  <a href="mailto:glopess1204@gmail.com" target="_blank">
-    <strong>glopess1204@gmail.com</strong>
-  </a>
 </p>
 
 <p>
@@ -52,11 +48,28 @@
   <img src="https://skillicons.dev/icons?i=figma,postman,nextjs,git,github"  alt="Others" />
 </p>
 
-</div>
-<p align="center">
-  <img loading="lazy" height="160em"
-       src="https://github-readme-stats-five-chi-35.vercel.app/api/top-langs/?username=GabLopes12&layout=compact&langs_count=7&theme=nord" />
+---
 
-  <img loading="lazy" height="160em"
-       src="https://github-readme-stats-five-chi-35.vercel.app/api?username=GabLopes12&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+## 📊 GitHub Insights
+
+<!-- Container centralizado com sombra, bordas e espaçamento -->
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+  <img height="170" src="https://github-readme-stats-five-chi-35.vercel.app/api?username=GabLopes12&show_icons=true&theme=nord&include_all_commits=true&count_private=true" style="border-radius: 12px;"/>
+
+  <img height="170" src="https://github-readme-stats-five-chi-35.vercel.app/api/top-langs/?username=GabLopes12&layout=compact&langs_count=7&theme=nord" style="border-radius: 12px;"/>
+
+</div>
+
+## 📫 How to reach me
+<p align="left">
+  <a href="mailto:glopess1204@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/GabLopes12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
 </p>
+
+---
