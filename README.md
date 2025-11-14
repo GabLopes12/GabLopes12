@@ -55,8 +55,8 @@
 </div>
 <p align="center">
   <img loading="lazy" height="160em"
-       src="https://github-readme-stats-11tocwgtk-gablopes12-projects.vercel.app/api/top-langs/?username=GabLopes12&layout=compact&langs_count=7&theme=nord" />
+       src="https://github-readme-stats-five-chi-35.vercel.app/api/top-langs/?username=GabLopes12&layout=compact&langs_count=7&theme=nord" />
 
   <img loading="lazy" height="160em"
-       src="https://github-readme-stats-11tocwgtk-gablopes12-projects.vercel.app/api?username=GabLopes12&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+       src="https://github-readme-stats-five-chi-35.vercel.app/api?username=GabLopes12&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
 </p>
